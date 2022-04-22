@@ -1,11 +1,10 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "devStart" : "nodemon app.js"
+    "devStart": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
@@ -28,5 +27,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kkotiswar/backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kkotiswar/backend/issues"
+  },
+  "homepage": "https://github.com/Kkotiswar/backend#readme",
+  "description": ""
 }
